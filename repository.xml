@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>pygoenv-overlay</name>
+    <description lang="en">Set up a Golang Environment</description>
+    <homepage>https://git.devnulllabs.io/overlays/pygoenv.git</homepage>
+    <owner>
+        <email>kballou@devnulllabs.io</email>
+        <name>Kenny Ballou</name>
+    </owner>
+    <source type="git">https://git.devnulllabs.io/overlays/pygoenv.git</source>
+    <feed>https://git.devnulllabs.io/overlays/pygoenv.git/log/</feed>
+  </repo>
+</repositories>
