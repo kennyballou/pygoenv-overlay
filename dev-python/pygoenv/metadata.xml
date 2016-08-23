@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>kballou@devnulllabs.io</email>
+		<name>Kenny Ballou</name>
+	</maintainer>
+	<longdescription lang="en">
+		Simple environment manager for the Go programming language
+	</longdescription>
+	<upstream>
+		<remote-id type="pypi">pygoenv</remote-id>
+		<remote-id type="github">pwoolcoc/goenv</remote-id>
+	</upstream>
+</pkgmetadata>
